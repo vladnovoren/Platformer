@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\vasez\\\\Documents\\\\Unreal Projects\\\\Platformer\\\\Source\\\\Platformer\\\\MovingPlatform.cpp",
+		"command": "cl.exe @\"C:\\Users\\vasez\\Documents\\Unreal Projects\\Platformer\\.vscode\\compileCommands_Default\\Platformer.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\vasez\\\\Documents\\\\Unreal Projects\\\\Platformer\\\\Source\\\\Platformer\\\\MovingPlatform.h",
+		"command": "cl.exe @\"C:\\Users\\vasez\\Documents\\Unreal Projects\\Platformer\\.vscode\\compileCommands_Default\\Platformer.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\vasez\\\\Documents\\\\Unreal Projects\\\\Platformer\\\\Source\\\\Platformer\\\\Platformer.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\vasez\\Documents\\Unreal Projects\\Platformer\\.vscode\\compileCommands_Default\\Platformer.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\vasez\\\\Documents\\\\Unreal Projects\\\\Platformer\\\\Source\\\\Platformer\\\\Platformer.cpp",
+		"command": "cl.exe @\"C:\\Users\\vasez\\Documents\\Unreal Projects\\Platformer\\.vscode\\compileCommands_Default\\Platformer.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\vasez\\\\Documents\\\\Unreal Projects\\\\Platformer\\\\Source\\\\Platformer\\\\Platformer.h",
+		"command": "cl.exe @\"C:\\Users\\vasez\\Documents\\Unreal Projects\\Platformer\\.vscode\\compileCommands_Default\\Platformer.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
